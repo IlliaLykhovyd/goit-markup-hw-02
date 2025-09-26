@@ -3,7 +3,7 @@ body {
   color: #434455;
   background-color: #ffffff;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 a {
   text-decoration: none;
@@ -16,10 +16,9 @@ ul {
   text-transform: uppercase;
   color: #2e2f42;
   font-size: 18px;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   font-weight: 700;
   line-height: 1.16;
-  font-style: bold;
 }
 .logo-part {
   color: #4d5ae5;
@@ -47,7 +46,6 @@ ul {
 }
 .title {
   color: #ffffff;
-  font-style: bold;
   font-size: 56px;
   line-height: 1.07;
 
@@ -57,7 +55,7 @@ ul {
   cursor: pointer;
   color: #ffffff;
   background-color: #4d5ae5;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   font-size: 16px;
   font-weight: 500;
 }
@@ -86,7 +84,7 @@ ul {
   font-size: 20px;
   color: #2e2f42;
   text-align: center;
-  letter-spacing: 1.2;
+  line-height: 1.2;
 }
 .team-text {
   text-align: center;
@@ -98,7 +96,7 @@ ul {
   text-align: center;
 }
 .portfolio-subtitle {
-  letter-spacing: 1.2;
+  line-height: 1.2;
   font-size: 20px;
   color: #2e2f42;
 }
@@ -110,10 +108,9 @@ ul {
   text-transform: uppercase;
   color: #f4f4fd;
   font-size: 18px;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   font-weight: 700;
   line-height: 1.16;
-  font-style: bold;
 }
 .footer-text {
   color: #f4f4fd;
